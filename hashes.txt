@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Midnight Whispers Only
+
+This log tracks the cryptographic history and versioning for the song **Midnight Whispers Only** (midnight-whispers-only).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T19:07:54.898624 | `v1` | `03170619178524f976306878d01920ec3d97d6af3f7e118c96719d21b2eb8ca4` | `c94004a569afbb361d74ccc5c759bf6700203969eb732a291b5b7aee03977867` | `2026-06-05_midnight-whispers-only-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

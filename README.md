@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-whispers-only/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Midnight Whispers Only](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-whispers-only/) |
+| **Get License** | [Request Licensing for Midnight Whispers Only](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-whispers-only/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `03170619178524f976306878d01920ec3d97d6af3f7e118c96719d21b2eb8ca4` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
